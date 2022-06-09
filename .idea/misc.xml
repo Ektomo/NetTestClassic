@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/NetTestClassic/app/src/main/res/drawable/circle.xml" value="0.14" />
+        <entry key="..\:/Android/NetTestClassic/app/src/main/res/layout/activity_main.xml" value="0.24728260869565216" />
+        <entry key="..\:/Android/NetTestClassic/app/src/main/res/layout/fragment_net_test.xml" value="0.18854166666666666" />
+        <entry key="..\:/Android/NetTestClassic/app/src/main/res/layout/recycler_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
